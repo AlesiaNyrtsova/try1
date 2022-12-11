@@ -2,6 +2,7 @@
 ================
 
 #Junior Frontend Developer
+=========================
 
 
 **Contact information:**
@@ -14,7 +15,6 @@
 
 
 **Discord:** AlesiaNyrt#2827
-=================================
 
 
 #**About myself:**
